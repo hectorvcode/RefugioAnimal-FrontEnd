@@ -1,0 +1,18 @@
+[
+  {
+    "id": "1",
+    "email": "juan.perez@example.com",
+    "password": "12345",
+    "firstName": "JUAN",
+    "lastName": "PEREZ",
+    "dniNumber": 12345678
+  },
+  {
+    "id": "2",
+    "email": "maria.lopez@example.com",
+    "password": "54321",
+    "firstName": "MARIA",
+    "lastName": "LOPEZ",
+    "dniNumber": 87654321
+  }
+]

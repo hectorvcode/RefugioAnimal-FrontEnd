@@ -1,0 +1,14 @@
+[
+  {
+    "id": "1",
+    "infoTitle": "Refugio para Mascotas",
+    "infoImgLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxpLB-xO7jLT2weQqKnkOjcL6TXwbaD-LwYcQn4YhIxvxqkuyBfXxazQUV5X7S50c3VNg&usqp=CAU",
+    "infoContent": "Estamos comprometidos con el bienestar de los peluditos en condicion de calle"
+  },
+  {
+    "id": "2",
+    "infoTitle": "Nuestro Compromiso",
+    "infoImgLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgKr5xlQCisdpW5vn9tKLRg4VDt8Wcrwk0E4xAe0ro3abZayxHgPVxYA-yVcVjDVgVBrk&usqp=CAU",
+    "infoContent": "Fomentamos la tenencia responsable de animales de compañía en condicion de abandono"
+  }
+]

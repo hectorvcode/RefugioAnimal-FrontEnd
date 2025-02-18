@@ -1,0 +1,16 @@
+[
+  {
+    "id": "1",
+    "supportTitle": "Ayúdanos a cuidar a nuestros peludos",
+    "supportContent": "Tu donación económica nos ayudará a comprar insumos y medicamentos.",
+    "supportImg": "https://example.com/support1.jpg",
+    "supportLink": "https://example.com/donar"
+  },
+  {
+    "id": "2",
+    "supportTitle": "Voluntariado para rescate",
+    "supportContent": "Únete como voluntario para participar en el rescate y cuidado de animales.",
+    "supportImg": "https://example.com/support2.jpg",
+    "supportLink": "https://example.com/voluntariado"
+  }
+]

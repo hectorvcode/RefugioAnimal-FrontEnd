@@ -1,0 +1,22 @@
+[
+  {
+    "id": "1",
+    "firstName": "JUAN",
+    "lastName": "PEREZ",
+    "dniType": "CEDULA_CIUDADANIA",
+    "dniNumber": 12345678,
+    "cellphone": "3001234567",
+    "email": "JUAN.PEREZ@EXAMPLE.COM",
+    "supportAlternatives": "DONACION_ECONOMICA"
+  },
+  {
+    "id": "2",
+    "firstName": "MARIA",
+    "lastName": "LOPEZ",
+    "dniType": "PASAPORTE",
+    "dniNumber": 87654321,
+    "cellphone": "3007654321",
+    "email": "MARIA.LOPEZ@EXAMPLE.COM",
+    "supportAlternatives": "VOLUNTARIADO"
+  }
+]

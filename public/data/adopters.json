@@ -1,0 +1,16 @@
+[
+  {
+    "id": "1",
+    "adopterDniNumber": "12345678",
+    "adopterFirstName": "Juan",
+    "adopterLastName": "Pérez",
+    "adoptedPets": []
+  },
+  {
+    "id": "2",
+    "adopterDniNumber": "87654321",
+    "adopterFirstName": "María",
+    "adopterLastName": "González",
+    "adoptedPets": []
+  }
+]

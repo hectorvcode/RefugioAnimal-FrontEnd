@@ -1,0 +1,302 @@
+[
+  {
+    "id": "1",
+    "petName": "Firulais",
+    "petAge": "Cachorro",
+    "petGender": "Macho",
+    "petSpecies": "Perro",
+    "petSize": "Mediano",
+    "petSpecialCondition": "Ninguna",
+    "isAdopted": false,
+    "isFeatured": true,
+    "featuredImg": "https://i.ibb.co/jJNShYf/alfred-h-01.webp",
+    "description": "Perro amigable",
+    "adopterDniNumber": "",
+    "petImages": [
+      { "petImageLink": "https://i.ibb.co/jJNShYf/alfred-h-01.webp" },
+      { "petImageLink": "https://i.ibb.co/hYh4LCY/alfred-v-02.webp" },
+      { "petImageLink": "https://i.ibb.co/x5Q8TzW/alfred-h-02.webp" },
+      { "petImageLink": "https://i.ibb.co/MGWw4rn/alfred-v-01.webp" }
+    ]
+  },
+  {
+    "id": "2",
+    "petName": "Lula",
+    "petAge": "Senior",
+    "petGender": "Hembra",
+    "petSpecies": "Perro",
+    "petSize": "Pequeno",
+    "petSpecialCondition": "Ninguna",
+    "isAdopted": false,
+    "isFeatured": true,
+    "featuredImg": "https://i.ibb.co/DVr4h2R/img-lula-v-01.jpg",
+    "description": "Perra juguetona",
+    "adopterDniNumber": "",
+    "petImages": [
+      { "petImageLink": "https://i.ibb.co/8zS4fM0/img-lula-v-02.jpg" },
+      { "petImageLink": "https://i.ibb.co/DVr4h2R/img-lula-v-01.jpg" },
+      { "petImageLink": "https://i.ibb.co/C08c6v4/img-lula-h-02.jpg" },
+      { "petImageLink": "https://i.ibb.co/94YKBhx/img-lula-h-01.jpg" }
+    ]
+  },
+  {
+    "id": "3",
+    "petName": "Chispita",
+    "petAge": "Adulto",
+    "petGender": "Hembra",
+    "petSpecies": "Perro",
+    "petSize": "Mediano",
+    "petSpecialCondition": "Ninguna",
+    "isAdopted": false,
+    "isFeatured": true,
+    "featuredImg": "https://i.ibb.co/6JBLyJQ/img-chispa-h-02.jpg",
+    "description": "Perra juguetona",
+    "adopterDniNumber": "",
+    "petImages": [
+      { "petImageLink": "https://i.ibb.co/dcc6nnQ/img-chispa-v-02.jpg" },
+      { "petImageLink": "https://i.ibb.co/dGrMCsz/img-chispa-v-01.jpg" },
+      { "petImageLink": "https://i.ibb.co/6JBLyJQ/img-chispa-h-02.jpg" },
+      { "petImageLink": "https://i.ibb.co/bFpW7Vg/img-chispa-h-01.jpg" }
+    ]
+  },
+  {
+    "id": "4",
+    "petName": "Boby",
+    "petAge": "Cachorro",
+    "petGender": "Macho",
+    "petSpecies": "Perro",
+    "petSize": "Mediano",
+    "petSpecialCondition": "Ninguna",
+    "isAdopted": false,
+    "isFeatured": true,
+    "featuredImg": "https://i.ibb.co/4mMnHdd/cachorro.jpg",
+    "description": "Perro juguetón",
+    "adopterDniNumber": "",
+    "petImages": [
+      { "petImageLink": "https://i.ibb.co/4mMnHdd/cachorro.jpg" },
+      { "petImageLink": "https://i.ibb.co/4mMnHdd/cachorro.jpg" },
+      { "petImageLink": "https://i.ibb.co/4mMnHdd/cachorro.jpg" },
+      { "petImageLink": "https://i.ibb.co/4mMnHdd/cachorro.jpg" }
+    ]
+  },
+  {
+    "id": "5",
+    "petName": "Rocky",
+    "petAge": "Senior",
+    "petGender": "Macho",
+    "petSpecies": "Perro",
+    "petSize": "Grande",
+    "petSpecialCondition": "Ninguna",
+    "isAdopted": false,
+    "isFeatured": true,
+    "featuredImg": "https://i.ibb.co/4mMnHdd/cachorro.jpg",
+    "description": "Perro aventurero",
+    "adopterDniNumber": "",
+    "petImages": [
+      { "petImageLink": "https://i.ibb.co/4mMnHdd/cachorro.jpg" },
+      { "petImageLink": "https://i.ibb.co/4mMnHdd/cachorro.jpg" },
+      { "petImageLink": "https://i.ibb.co/4mMnHdd/cachorro.jpg" },
+      { "petImageLink": "https://i.ibb.co/4mMnHdd/cachorro.jpg" }
+    ]
+  },
+  {
+    "id": "6",
+    "petName": "Toby",
+    "petAge": "Adulto",
+    "petGender": "Macho",
+    "petSpecies": "Perro",
+    "petSize": "Pequeno",
+    "petSpecialCondition": "Ninguna",
+    "isAdopted": false,
+    "isFeatured": true,
+    "featuredImg": "https://i.ibb.co/4mMnHdd/cachorro.jpg",
+    "description": "Perro cariñoso",
+    "adopterDniNumber": "",
+    "petImages": [
+      { "petImageLink": "https://i.ibb.co/4mMnHdd/cachorro.jpg" },
+      { "petImageLink": "https://i.ibb.co/4mMnHdd/cachorro.jpg" },
+      { "petImageLink": "https://i.ibb.co/4mMnHdd/cachorro.jpg" },
+      { "petImageLink": "https://i.ibb.co/4mMnHdd/cachorro.jpg" }
+    ]
+  },
+  {
+    "id": "7",
+    "petName": "Max",
+    "petAge": "Cachorro",
+    "petGender": "Macho",
+    "petSpecies": "Perro",
+    "petSize": "Mediano",
+    "petSpecialCondition": "Ninguna",
+    "isAdopted": false,
+    "isFeatured": true,
+    "featuredImg": "https://i.ibb.co/4mMnHdd/cachorro.jpg",
+    "description": "Perro activo",
+    "adopterDniNumber": "",
+    "petImages": [
+      { "petImageLink": "https://i.ibb.co/4mMnHdd/cachorro.jpg" },
+      { "petImageLink": "https://i.ibb.co/4mMnHdd/cachorro.jpg" },
+      { "petImageLink": "https://i.ibb.co/4mMnHdd/cachorro.jpg" },
+      { "petImageLink": "https://i.ibb.co/4mMnHdd/cachorro.jpg" }
+    ]
+  },
+  {
+    "id": "8",
+    "petName": "Buddy",
+    "petAge": "Senior",
+    "petGender": "Macho",
+    "petSpecies": "Perro",
+    "petSize": "Grande",
+    "petSpecialCondition": "Ninguna",
+    "isAdopted": false,
+    "isFeatured": true,
+    "featuredImg": "https://i.ibb.co/C144dPC/perritos-20.jpg",
+    "description": "Perro fiel",
+    "adopterDniNumber": "",
+    "petImages": [
+      { "petImageLink": "https://i.ibb.co/4mMnHdd/cachorro.jpg" },
+      { "petImageLink": "https://i.ibb.co/4mMnHdd/cachorro.jpg" },
+      { "petImageLink": "https://i.ibb.co/4mMnHdd/cachorro.jpg" },
+      { "petImageLink": "https://i.ibb.co/4mMnHdd/cachorro.jpg" }
+    ]
+  },
+  {
+    "id": "9",
+    "petName": "Rex",
+    "petAge": "Cachorro",
+    "petGender": "Macho",
+    "petSpecies": "Perro",
+    "petSize": "Mediano",
+    "petSpecialCondition": "Ninguna",
+    "isAdopted": false,
+    "isFeatured": true,
+    "featuredImg": "https://i.ibb.co/LCwv58F/perritos-1.jpg",
+    "description": "Perro protector",
+    "adopterDniNumber": "",
+    "petImages": [
+      { "petImageLink": "https://i.ibb.co/4mMnHdd/cachorro.jpg" },
+      { "petImageLink": "https://i.ibb.co/4mMnHdd/cachorro.jpg" },
+      { "petImageLink": "https://i.ibb.co/4mMnHdd/cachorro.jpg" },
+      { "petImageLink": "https://i.ibb.co/4mMnHdd/cachorro.jpg" }
+    ]
+  },
+  {
+    "id": "10",
+    "petName": "Zeus",
+    "petAge": "Senior",
+    "petGender": "Macho",
+    "petSpecies": "Perro",
+    "petSize": "Grande",
+    "petSpecialCondition": "Ninguna",
+    "isAdopted": false,
+    "isFeatured": true,
+    "featuredImg": "https://i.ibb.co/HrTqG3Y/perritos-2.jpg",
+    "description": "Perro majestuoso",
+    "adopterDniNumber": "",
+    "petImages": [
+      { "petImageLink": "https://i.ibb.co/4mMnHdd/cachorro.jpg" },
+      { "petImageLink": "https://i.ibb.co/4mMnHdd/cachorro.jpg" },
+      { "petImageLink": "https://i.ibb.co/4mMnHdd/cachorro.jpg" },
+      { "petImageLink": "https://i.ibb.co/4mMnHdd/cachorro.jpg" }
+    ]
+  },
+  {
+    "id": "11",
+    "petName": "Apollo",
+    "petAge": "Adulto",
+    "petGender": "Macho",
+    "petSpecies": "Perro",
+    "petSize": "Pequeno",
+    "petSpecialCondition": "Ninguna",
+    "isAdopted": false,
+    "isFeatured": true,
+    "featuredImg": "https://i.ibb.co/GkbsXgp/perritos-3.jpg",
+    "description": "Perro encantador",
+    "adopterDniNumber": "",
+    "petImages": [
+      { "petImageLink": "https://i.ibb.co/4mMnHdd/cachorro.jpg" },
+      { "petImageLink": "https://i.ibb.co/4mMnHdd/cachorro.jpg" },
+      { "petImageLink": "https://i.ibb.co/4mMnHdd/cachorro.jpg" },
+      { "petImageLink": "https://i.ibb.co/4mMnHdd/cachorro.jpg" }
+    ]
+  },
+  {
+    "id": "12",
+    "petName": "Lucky",
+    "petAge": "Cachorro",
+    "petGender": "Hembra",
+    "petSpecies": "Perro",
+    "petSize": "Pequeno",
+    "petSpecialCondition": "Ninguna",
+    "isAdopted": false,
+    "isFeatured": true,
+    "featuredImg": "https://i.ibb.co/4sjDJ2Q/perritos-4.jpg",
+    "description": "Perra afortunada",
+    "adopterDniNumber": "",
+    "petImages": [
+      { "petImageLink": "https://i.ibb.co/4mMnHdd/cachorro.jpg" },
+      { "petImageLink": "https://i.ibb.co/4mMnHdd/cachorro.jpg" },
+      { "petImageLink": "https://i.ibb.co/4mMnHdd/cachorro.jpg" },
+      { "petImageLink": "https://i.ibb.co/4mMnHdd/cachorro.jpg" }
+    ]
+  },
+  {
+    "id": "13",
+    "petName": "Bruno",
+    "petAge": "Senior",
+    "petGender": "Macho",
+    "petSpecies": "Perro",
+    "petSize": "Mediano",
+    "petSpecialCondition": "Ninguna",
+    "isAdopted": true,
+    "isFeatured": true,
+    "featuredImg": "https://i.ibb.co/ngsKJNK/perritos-5.jpg",
+    "description": "Perro amigable",
+    "adopterDniNumber": "12345678",
+    "petImages": [
+      { "petImageLink": "https://i.ibb.co/4mMnHdd/cachorro.jpg" },
+      { "petImageLink": "https://i.ibb.co/4mMnHdd/cachorro.jpg" },
+      { "petImageLink": "https://i.ibb.co/4mMnHdd/cachorro.jpg" },
+      { "petImageLink": "https://i.ibb.co/4mMnHdd/cachorro.jpg" }
+    ]
+  },
+  {
+    "id": "14",
+    "petName": "Thor",
+    "petAge": "Adulto",
+    "petGender": "Macho",
+    "petSpecies": "Perro",
+    "petSize": "Grande",
+    "petSpecialCondition": "Ninguna",
+    "isAdopted": false,
+    "isFeatured": true,
+    "featuredImg": "https://i.ibb.co/2PS9Ksw/perritos-6.jpg",
+    "description": "Perro fuerte",
+    "adopterDniNumber": "",
+    "petImages": [
+      { "petImageLink": "https://i.ibb.co/4mMnHdd/cachorro.jpg" },
+      { "petImageLink": "https://i.ibb.co/4mMnHdd/cachorro.jpg" },
+      { "petImageLink": "https://i.ibb.co/4mMnHdd/cachorro.jpg" },
+      { "petImageLink": "https://i.ibb.co/4mMnHdd/cachorro.jpg" }
+    ]
+  },
+  {
+    "id": "15",
+    "petName": "Duke",
+    "petAge": "Cachorro",
+    "petGender": "Macho",
+    "petSpecies": "Perro",
+    "petSize": "Grande",
+    "petSpecialCondition": "Ninguna",
+    "isAdopted": true,
+    "isFeatured": true,
+    "featuredImg": "https://i.ibb.co/59GpQBX/perritos-7.jpg",
+    "description": "Perro noble",
+    "adopterDniNumber": "87654321",
+    "petImages": [
+      { "petImageLink": "https://i.ibb.co/4mMnHdd/cachorro.jpg" },
+      { "petImageLink": "https://i.ibb.co/4mMnHdd/cachorro.jpg" },
+      { "petImageLink": "https://i.ibb.co/4mMnHdd/cachorro.jpg" },
+      { "petImageLink": "https://i.ibb.co/4mMnHdd/cachorro.jpg" }
+    ]
+  }
+]

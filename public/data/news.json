@@ -1,0 +1,14 @@
+[
+  {
+    "id": "1",
+    "newsTitle": "Más de 80 gatos fueron rescatados en Santa Marta: los animales estaban en condiciones precarias",
+    "newsContent": "Las autoridades de Santa Marta llevaron a cabo un importante operativo en el sector del polideportivo de la ciudad, donde rescataron a más de 80 gatos que se encontraban en condiciones precarias. En la intervención participaron la Fiscalía General de la Nación, la Policía Nacional, la Secretaría de Gobierno y organizaciones de protección animal.",
+    "newsImg": "https://imagenes.eltiempo.com/files/image_1200_535/uploads/2024/11/12/67339b3e7f666.jpeg"
+  },
+  {
+    "id": "2",
+    "newsTitle": "¿En busca de una mascota? Prepárese para jornada de adopción en Bogotá",
+    "newsContent": "Más de 40 animales, entre perros y gatos, rescatados por la Unidad de Cuidado Animal de Bogotá, están buscando un hogar para siempre, en jornadas de adopción. Estas se llevarán a cabo durante los fines de semana restantes de abril en varios puntos de la ciudad.",
+    "newsImg": "https://imagenes.eltiempo.com/files/image_1200_535/uploads/2023/04/14/6439975c95fb9.jpeg"
+  }
+]
